@@ -65,3 +65,11 @@ li {
 a {
   color: #003366;
 }
+
+li {
+  margin-bottom: 1.2em;
+}
+
+em {
+  font-style: italic;
+}
